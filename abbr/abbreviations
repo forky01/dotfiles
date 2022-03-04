@@ -1,0 +1,5 @@
+be="bundle exec"
+k="kubectl"
+kx="kubectx"
+sal="saml2aws login --skip-prompt"
+grh="git rebase -i HEAD~2"
